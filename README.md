@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kyle</h1>
-I'm a Mechatronics/Robotics Engineer who enjoys working in the realm where software and hardware meet. I am currently working at Greenroom Robotics, helping to develop robotic software and autonomous boats. 
+I'm a Mechatronics/Robotics Engineer who enjoys working in the realm where software and hardware meet. I am currently working at Breaker Industries, where we are working to bring the robots that we were promised. 
 
 <h1> </h1>
 
